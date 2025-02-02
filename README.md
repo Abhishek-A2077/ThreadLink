@@ -1,5 +1,22 @@
-# ThreadLink 
-This is a online web based forum for sharing information and discussing about certain topics
-%20
-%20
-![Threadlink Preview](images/threadlink%20preview.jpg)
+# ThreadLink  
+
+ThreadLink is a web-based forum designed for sharing information and discussing various topics. It provides a platform for users to create threads, engage in discussions, and interact with a community.  
+
+## Features  
+- Create and browse discussion threads  
+- User-friendly interface with a clean design  
+- Interactive UI built using HTML, CSS, and JavaScript  
+- Responsive layout for seamless access on different devices  
+
+## Technologies Used  
+- **HTML** – Structuring the forum layout  
+- **CSS** – Styling and responsiveness  
+- **JavaScript** – Enhancing interactivity  
+
+## Preview  
+![Threadlink Preview](images/threadlink%20preview.jpg)  
+
+## How to Use  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Abhishek-A2077/threadlink.git
