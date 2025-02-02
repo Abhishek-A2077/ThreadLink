@@ -15,8 +15,3 @@ ThreadLink is a web-based forum designed for sharing information and discussing 
 
 ## Preview  
 ![Threadlink Preview](images/threadlink%20preview.jpg)  
-
-## How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Abhishek-A2077/threadlink.git
